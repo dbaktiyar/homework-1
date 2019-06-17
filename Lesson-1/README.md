@@ -1,7 +1,7 @@
 ### Урок 1
 [Введение в HTML и CSS](https://drive.google.com/drive/u/0/folders/1ad_jgetAhesB-NHN_m4igDutnRpwYYyU)
 
-###### Для установки дополнительных плагинов в Sublime Text необходимо сначала уcтановить главный плагин - Package Control:
+##### Для установки дополнительных плагинов в Sublime Text необходимо сначала уcтановить главный плагин - Package Control:
 1. Открываем Sublime
 2. Открываем консоль в Sublime **(Cntr + ~)**
 3. Копируем в консоль текст с сайта [Package Control](https://packagecontrol.io/installation) для вашей версии Sublime
