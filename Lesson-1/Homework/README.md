@@ -28,5 +28,5 @@ div, h1,h2,h3,h4,h5,h6,p,a,span,b,em,i, img, теги таблиц (table, tr, t
 Все остальные пункты такие же как и в обычном варианте домашки: 
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-1/Homework/homework_1.jpg "Logo Title Text 1")
 
