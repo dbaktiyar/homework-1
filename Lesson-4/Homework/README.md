@@ -1,7 +1,7 @@
 ## Homework
 
 
-Cверстать страницу в соответствии с макетом  **[reform-1.jpg](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-4/Homework/img/reform-1.jpg)**
+## Cверстать страницу в соответствии с макетом  **[reform-1.jpg](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-4/Homework/img/reform-1.jpg)**
 
 Сверстанная страница должна иметь все блоки из макета и быть визуально максимально схожей с дизайном. 
 
