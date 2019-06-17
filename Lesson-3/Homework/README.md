@@ -5,6 +5,7 @@
 В блоке About Us иконки должны быть размещены через css (т.е. через свойство **background**), область иконки и заголовка 
 
 должна быть кликабельной (т.е. должна быть ссылкой)
+Все иконки и логотип находятся в папке [images](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-3/Homework/images)
 
 ---
 
