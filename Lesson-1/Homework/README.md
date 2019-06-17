@@ -27,6 +27,6 @@ div, h1,h2,h3,h4,h5,h6,p,a,span,b,em,i, img, теги таблиц (table, tr, t
 Количество тегов может быть любым. Внутрь тегов вкладывайте любой текст. 
 Все остальные пункты такие же как и в обычном варианте домашки: 
 
-Inline-style: 
+##### homework_1.jpg: 
 ![alt text](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-1/Homework/homework_1.jpg "Logo Title Text 1")
 
