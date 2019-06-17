@@ -1,7 +1,7 @@
 # JavaScript программирования для начинающих 
 
 ### Урок 1
-[Введение в HTML и CSS](https://drive.google.com/drive/u/0/folders/1ad_jgetAhesB-NHN_m4igDutnRpwYYyU)
+[Введение в HTML и CSS](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-1)
 
 ### Урок 2
 [HTML, CSS: Блочная модель (отступы, границы, поля, свойство box-sizing)](https://drive.google.com/drive/u/0/folders/19iXJrk05xRCT-eQtd59lLmnH3781_0aj)
