@@ -1,0 +1,51 @@
+body {
+    verdana (font-family: verdana, sans-serif)
+    margin: 0 auto;
+    padding: 0px 80px 0px 80px;
+}
+
+.container {
+    width: 986px;
+}
+
+nav {
+    background-color: #03a7d4;
+    padding: 11px 20px 11px 20px;
+}
+
+li {
+    border-right: 2px solid #fff;
+    display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+    padding: 0 40px 0px 0;
+}
+
+.sidebar {
+    float: left;
+    width: 271px;
+    height: 900px;
+    color: blue;
+}
+
+main {
+    float: right;
+    width: 800px;
+}
+
+.section img {
+    float: left;
+    margin: 0 10px 0 0;
+    height: 100px;
+}
+
+.inter {
+    padding: 0px 300px 0 185px;
+    margin: 0px 0 -75px 0px;
+}
+
+.foot {
+    margin-top: 100%;
+    border-top: dashed rgb(216, 98, 98);
+}
