@@ -11,6 +11,7 @@ body {
 	text-decoration: none;
 	color: #fff;  
 	background-color: #03a7d4;
+	
 }
 
 li {
@@ -18,8 +19,9 @@ li {
     padding: 7px 34px 10px 10px;	
 	font-size: 18px;
 	font-weight: normal;
-}
+	border-right: 2px solid #fff; 
 
+}
 
 .sidebar{
 	font-size: 14px;
