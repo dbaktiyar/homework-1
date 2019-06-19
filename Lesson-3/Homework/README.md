@@ -1,7 +1,7 @@
 ## Homework
 
 
-Доверстать страницу верстка, которой была начата, на занятии макет **[business.jpg](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-3/Homework/images/business.jpg)**
+### Cверстать страницу верстка, которой была начата, на занятии макет **[business.jpg](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-3/Homework/images/business.jpg)**
 В блоке About Us иконки должны быть размещены через css (т.е. через свойство **background**), область иконки и заголовка 
 
 должна быть кликабельной (т.е. должна быть ссылкой)
