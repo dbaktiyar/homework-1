@@ -1,11 +1,10 @@
 body {
-    verdana (font-family: verdana, sans-serif)
-    margin: 0 auto;
-    padding: 0px 80px 0px 80px;
+    verdana (font-family: verdana, sans-serif);
 }
 
 .container {
     width: 986px;
+    margin: 0 auto;
 }
 
 nav {
@@ -17,12 +16,12 @@ li {
     border-right: 2px solid #fff;
     display: inline-block;
     color: #fff;
-    font-size: 18px;
+    font-size: 18px;s
     font-weight: normal;
     padding: 0 40px 0px 0;
 }
 
-.sidebar {
+aside {
     float: left;
     width: 271px;
     height: 900px;
@@ -31,7 +30,7 @@ li {
 
 main {
     float: right;
-    width: 800px;
+    width: 691px;
 }
 
 .section img {
@@ -40,12 +39,16 @@ main {
     height: 100px;
 }
 
+.item img {
+    float: left;
+}
 .inter {
-    padding: 0px 300px 0 185px;
-    margin: 0px 0 -75px 0px;
+    float: right;
+    height: 148px;
+    width: 482px;
 }
 
-.foot {
+.footer {
     margin-top: 100%;
     border-top: dashed rgb(216, 98, 98);
 }
