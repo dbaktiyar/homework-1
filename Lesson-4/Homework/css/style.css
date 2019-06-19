@@ -25,7 +25,6 @@ li {
 	font-size: 14px;
 	font-weight: normal;
 	color: #008fbf;
-	float: left;
 	width: 200px;
 	height: 900px;
 }
@@ -36,13 +35,25 @@ li {
 	color: #008fbf,
 }
 
-/*.about-item {
+aside {
+	float: left;
+	height: 700px;
+	width: 300px;
+}
+
+main {
 	float: right;
+	height: 700px;
+	width: 700px;
+}
+
+.about-item {
     font-size: 14px; 
     font-weight: normal;
     color: #000;
+    height: 500px;
    
-}*/
+}
 
 .about h3 {
     font-size: 16px;
@@ -56,7 +67,18 @@ li {
 	width: 200px;
 	margin: 900px;
 }
-.img-history-1 {
+
+img {
+	float: left;
+}
+
+.about-aitem p {
+	float: right;
+    width: 500px;
+    height: 130px;
+    margin: 0px;
+}
+/*.img-history-1 {
 	float: left;
 	margin: 0 10px 0 0;
 	width: 500px;
@@ -72,9 +94,10 @@ li {
 	float: left;
 	margin: 0 10px 0 0;
 	width: 500px;
-}
-footer{
+}*/
+.footer{
+    margin-top: 71%;
     font-size: 19px;
     font-weight: normal;
-    padding: 240px 0;
+    border-top: 3px dashed red;
 }
