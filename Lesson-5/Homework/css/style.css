@@ -1,25 +1,26 @@
 body {
-	verdana (font-family: verdana, sans-serif)
+    background: yellowgreen;
 }
 
-.container {
-	margin:0 auto;
-	width: 100%;
-	background: #2e3b4e; 
-	height: 70px;
+header {
+    background: #2E3B4E;
+    width: 100%;
 }
 
-
-.logo {
-	padding: 15px 90px 13px 90px;
-    float: left;
+.img {
+    padding: 0 0 0 70px;
 }
 
-nav {
-	
-
+.catalog {
+    display: inline-block;
+    padding: 65px 0 25px 65px;
 }
 
-.li {
-	display: inline-block;
+li {
+    display: inline-block;
+    padding-right: 80px;
+}
+
+.a {
+    color: #fff;
 }
