@@ -25,7 +25,7 @@ aside {
     float: left;
     width: 271px;
     height: 900px;
-    color: blue;
+    color: rgb(22, 24, 24);
 }
 
 main {
@@ -50,5 +50,7 @@ main {
 
 .footer {
     margin-top: 100%;
-    border-top: dashed rgb(216, 98, 98);
+    border-top: dashed rgb(187, 182, 182);
+    padding: 0 0 0 15px;
+
 }

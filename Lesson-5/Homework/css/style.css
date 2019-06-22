@@ -1,0 +1,27 @@
+body {
+    
+    background: yellowgreen;
+}
+
+header {
+    background: #2E3B4E;
+    width: 100%;
+}
+
+.img {
+    padding: 0 0 0 70px;
+}
+
+.catalog {
+    display: inline-block;
+    padding: 65px 0 25px 65px;
+}
+
+li {
+    display: inline-block;
+    padding-right: 80px;
+}
+
+.a {
+    color: #fff;
+}
