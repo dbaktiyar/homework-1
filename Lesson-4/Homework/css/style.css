@@ -7,7 +7,7 @@ body {
 	margin: 0 auto;
 }
 
-.nav {
+ .nav {
 	text-decoration: none;
 	color: #fff;  
 	background-color: #03a7d4;
@@ -31,10 +31,16 @@ li {
 	height: 900px;
 }
 
-.sidebar h3 {
+.sidebar h3 { 
 	font-size: 23px,
 	font-weight: normal;
 	color: #008fbf,
+}
+
+.sidebar p {
+	font-size: 14px;
+	font-weight: normal;
+	color:#008fbf;
 }
 
 aside {
@@ -80,23 +86,7 @@ img {
     height: 130px;
     margin: 0px;
 }
-/*.img-history-1 {
-	float: left;
-	margin: 0 10px 0 0;
-	width: 500px;
-}
 
-.img-history-2 {
-	float: left;
-	margin: 0 10px 0 0;
-	width: 500px;
-}
-
-.img-history-3 {
-	float: left;
-	margin: 0 10px 0 0;
-	width: 500px;
-}*/
 .footer{
     margin-top: 71%;
     font-size: 19px;
