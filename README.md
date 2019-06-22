@@ -12,5 +12,5 @@
 ### Урок 4
 [Прямой поток, свойство float.](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-4)
 
-### Урок 5
-[Photoshop, а также немного о сбросе стилей](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-5)
+### Урок 6
+[Позиционирование, z-index](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-6)
