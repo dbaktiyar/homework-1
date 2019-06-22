@@ -2,6 +2,11 @@ body {
     background: yellowgreen;
 }
 
+.container {
+	width: 1000px;
+	margin: 0 auto
+}
+
 header {
     background: #2E3B4E;
     width: 100%;
