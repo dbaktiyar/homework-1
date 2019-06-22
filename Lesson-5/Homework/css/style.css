@@ -1,0 +1,25 @@
+body {
+	verdana (font-family: verdana, sans-serif)
+}
+
+.container {
+	margin:0 auto;
+	width: 100%;
+	background: #2e3b4e; 
+	height: 70px;
+}
+
+
+.logo {
+	padding: 15px 90px 13px 90px;
+    float: left;
+}
+
+nav {
+	
+
+}
+
+.li {
+	display: inline-block;
+}
