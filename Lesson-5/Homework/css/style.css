@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  margin: 0;
+}
+
+.conteiner { 
+  height: 60px; 
+  background: #063971;
+}
+
+.logo {
+  width: 175px;
+  height: 37px;
+  background: url(../img/logo.png)  no-repeat;
+  background-size: 114px;
+  position: absolute;
+  margin: 18px 0 0 163px;
+}
+
+.main-nav {
+  margin-left: 38%;
+}
+
+.main-nav ul {
+  list-style: none;
+  padding: 14px 0;
+  display: flex;
+}
+
+.main-nav li {
+  margin-left: 20;
+  padding: 1px 8px 0 32px;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.fitness {
+  background: #9a9a3e;
+  /* height: 1194px; */
+  margin: 0 auto;
+}
+
+.service {
+  display: flex;
+  color: white;
+  font-size: 13px;
+  width: 910px;
+  margin: 0 auto;
+}
+
+.service div {
+  width: 287px;
+  margin: 0 auto;
+  padding: 36px 8px 0 0px;
+  margin-top: 36px;
+}
+
+.service div h3 {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.service div img {
+  margin: -7px 10px;
+}
+
+.first-us {
+  display: flex;
+  margin: 0 auto;
+  width: 910px;
+  margin-top: 50px;
+}
+
+ .info {
+  padding: 43px 8px 0 0px;
+  background-color: white;
+  text-align: center;  
+}
+
+ .info span {
+  color: red;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  font-weight: 500;
+}
+
+ .info h1 {
+  color: #9a9a3e;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: 700;
+}
+
+.info p {
+ padding: 0 26px 0 26px;
+ line-height: 2;
+}
+
+.info a {
+  color: #9a9a3e;
+  font-weight: bold; 
+ }
+
+ .second-us {
+  display: flex;
+  margin: 0 auto;
+  width: 910px;
+ }
+
+ .footer {
+  background: #04032d;
+  height: 255px;  
+ }
+
+ .contact {
+  display: flex;
+  margin: 0 auto;
+  width: 910px; 
+}
+.contact-info {
+  width: 595px;
+  margin-top: 52px;
+}
+.contact-info h3 {  
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.contact p {
+  color: white;
+  padding-right: 110px;
+  padding: 0 0px -6px;
+ }
+  
+ .social-block {
+  margin-top: 52px;
+ }
+
+ .fa {
+  padding: 20px;
+  margin: 0 5px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
