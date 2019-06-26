@@ -14,3 +14,7 @@
 
 ### Урок 6
 [Позиционирование, z-index](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-6)
+
+
+### Урок 7
+[text-shadow, box-shadow, градиентный фон, кнопки, использование псевдоклассов :hover, :focus, :active,:link, visited](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-7)
