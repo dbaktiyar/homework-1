@@ -1,16 +1,10 @@
 body {
-  
     background: yellowgreen;
 }
 
 header {
     background: #2E3B4E;
-    width: 1263px;
     height: 96px;
-}
-
-.header-logo {
-    margin: -120px 0 0 0;
 }
 
 .img {
@@ -36,8 +30,10 @@ nav li a {
 }
 
 .container {
-    text-align: center;
-    padding: 112px 0 0 0;
+    width: 1200px;
+    margin: 0 auto;
+    /*text-align: center;*/
+    /*padding: 112px 0 0 0;*/
 }
 
 .about-item {
@@ -47,10 +43,40 @@ nav li a {
     padding: 0 48px;
 }
 
-.image {
+.image-1-text {
+    float: left;
+    text-align: center;
+    width: 600px;
+    height: 393px;
+    background: #fff;
+}
+
+h4 {
+    color: red;
+    font-size: 14px;
+    padding-top: 28px;
+}
+
+h2 {
+    color: yellowgreen;
+}
+
+.image-1 img {
+    float: right;    
+}
+
+.image-2-text {
     float: right;
-    /* width: 229px; */
-    padding: 0 48px;
+    text-align: center;
+    width: 600px;
+    height: 393px;
+    background: #fff;
+}
+
+
+.image-2 img {
+    float: left;
+    
 }
 /* img {
     float: right;
