@@ -1,0 +1,77 @@
+.container {
+    background: #464646;
+    float: center;
+    width: 422px;
+    height: 322px;
+    display: inline-grid;
+    padding: 28px 0 0 19px;
+}
+
+button {
+    background: #0d81d9;
+    border-radius: 25px;
+}
+
+.apple button {
+    color: #ffffff;
+    border: none;
+    display: inline-block;
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 100px;
+    border: solid rgb(4,88,192);
+    border-width: 3px 10px;
+    outline: none;
+    
+    transition: .6s, opacity 0s 9999999s, visibility 0s 9999999s;
+    
+}
+
+.click button {
+    background: #d6514f;
+    border-radius: 4px;
+    color: #b8312e;
+    padding: 0 0 0 15px;
+    border: none;
+    position: relative;
+    z-index: 10;
+    display: inline-block;
+    outline: none;
+    box-shadow: 0 1px rgba(0,0,0,.1) inset, 0 1px #fff;
+}
+
+/* .click .shadow-txt {
+    color: #b8312e;
+} */
+
+.face button {
+    border-radius: 0%;
+    color: #ffffff;
+    background: #2f2f2f;
+    border-radius: 7px;
+    border: none;
+}
+
+.home button {
+    width: 176px;
+    height: 47px;
+    padding: 0 0 0 74px;
+    border-radius: 5px;
+    background: #3257bc;
+    color: #ffffff;
+    border: none;
+}
+
+.see button {
+    font-size: 40px;
+    background: #066cad;
+    padding: 0 30px 0 30px;
+    color: #ffffff;
+    border: none;
+}
+
+.see img {
+    padding: 0 0 0px 15px;
+}
