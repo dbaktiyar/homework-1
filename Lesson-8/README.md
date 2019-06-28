@@ -1,2 +1,2 @@
-### Урок 7
-[text-shadow, box-shadow, градиентный фон,кнопки, использование псевдоклассов :hover, :focus,:active,:link, visited](https://drive.google.com/drive/u/0/folders/1VXWEEj83Ek3Gmr4gC7fm_eXRluXPyLzK)
+### Урок 8
+[Псевдоклассы :first-child, :last-child, :nth-child. Псевдоэлементы ::before и ::after. Подключение нестандартных шрифтов через @font-face](https://drive.google.com/drive/u/0/folders/1aCJO089-zRmkprwzO8X1d4cNRfzw5yab)
