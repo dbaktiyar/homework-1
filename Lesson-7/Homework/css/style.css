@@ -46,13 +46,19 @@ button {
     box-shadow: 4px 9px 30px 0px rgba(63, 146, 160, 0.64);
 }
 
-/* .click .shadow-txt {
-    color: #b8312e;
-} */
+.face a {
+    color: aliceblue;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 0 0 33px;
+    line-height: 50px;
+}
+
+.face img {
+    background: aliceblue;
+}
 
 .face button {
-    /* border-radius: 0%; */
-    color: #ffffff;
     background: #2f2f2f;
     border-radius: 7px;
     border: none;
