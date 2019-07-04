@@ -1,15 +1,21 @@
 .container {
-    background: #464646;
+    background: #474747;
     float: center;
     width: 422px;
     height: 322px;
     display: inline-grid;
-    padding: 28px 0 0 19px;
+    padding: 10px 0px 0px 18px;
 }
 
 button {
     background: #0d81d9;
     border-radius: 25px;
+}
+
+.apple a {
+    text-decoration: none;
+    line-height: 33px;
+    color: aliceblue;
 }
 
 .apple button {
@@ -19,27 +25,25 @@ button {
     font-size: 20px;
     color: #fff;
     text-decoration: none;
-    padding: 8px 15px;
+    padding: 0px 20px;
     border-radius: 100px;
-    border: solid rgb(4,88,192);
     border-width: 3px 10px;
     outline: none;
-    
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.6);
     transition: .6s, opacity 0s 9999999s, visibility 0s 9999999s;
-    
+    background: -webkit-linear-gradient(top, #289bf4 0%,#1083dc 50%,#0578d1);
 }
 
 .click button {
-    background: #d6514f;
-    border-radius: 4px;
-    color: #b8312e;
-    padding: 0 0 0 15px;
-    border: none;
-    position: relative;
-    z-index: 10;
+    background: #d85653;
+    width: 155px;
+    height: 55px;
+    border: 0px solid #0673b8;
     display: inline-block;
-    outline: none;
-    box-shadow: 0 1px rgba(0,0,0,.1) inset, 0 1px #fff;
+    text-decoration: none;
+    color: #b42825;
+    border-radius: 3px;
+    box-shadow: 4px 9px 30px 0px rgba(63, 146, 160, 0.64);
 }
 
 /* .click .shadow-txt {
@@ -47,31 +51,58 @@ button {
 } */
 
 .face button {
-    border-radius: 0%;
+    /* border-radius: 0%; */
     color: #ffffff;
     background: #2f2f2f;
     border-radius: 7px;
     border: none;
+    width: 165px;
+    height: 48px;
 }
 
 .home button {
-    width: 176px;
+    width: 200px;
+    height: 60px;
+    border: 0px solid #0673b8;
+    display: inline-block;
+    line-height: 60px;
+    text-decoration: none;
+    color: white;
+    border-radius: 3px;
+    box-shadow: 2px 5px 7px 2px rgba(17, 16, 17, 0.65);
+    text-shadow: 4px 4px 15px rgba(150, 150, 150, 1);
+    /* width: 176px;
     height: 47px;
     padding: 0 0 0 74px;
     border-radius: 5px;
     background: #3257bc;
     color: #ffffff;
-    border: none;
+    border: none; */
 }
 
 .see button {
-    font-size: 40px;
-    background: #066cad;
+    font-size: 35px;
+    background: #0673b8;
     padding: 0 30px 0 30px;
     color: #ffffff;
     border: none;
+    height: 60px;
+    border: 1px solid #0673b8;
+    display: inline-block;
+    margin-right: 20px;
+    line-height: 60px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 45px;
+    box-shadow: 0px 3px 2px 0px rgba(0, 0, 0, 0.6);
+    text-shadow: -1px -1px 2px rgba(0, 0, 0, 1);
+    background: -webkit-linear-gradient(top, #1a88cf 0%,#2989d8 50%,#066bab 51%,#1884c9 100%);
 }
 
 .see img {
     padding: 0 0 0px 15px;
+}
+
+.book {
+    margin-left: 30px;
 }
