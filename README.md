@@ -20,3 +20,7 @@
 
 ### Урок 8
 [Псевдоклассы :first-child, :last-child, :nth-child. Псевдоэлементы ::before и ::after. Подключение нестандартных шрифтов через @font-face](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-8)
+
+
+### Урок 9
+[Списки. Принцип модульности в верстке](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-9)
