@@ -1,23 +1,20 @@
 ## Homework
 
 
-Сверстать макеты table-1.psd и table-2b.psd
+Сверстать макеты [table-2b.psd](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-10/Homework/img/table-2b.psd)
 Для оформления внешнего вида содержимого ячеек, желательно использовать
-псевдоклассы: :first-child; :last-child; nth-child(), но можно также при необходимости
+псевдоклассы: **:first-child**; **:last-child**; **nth-child()**, но можно также при необходимости
 использовать и обычные классы.
-В макете table-2b.psd - в ячейках текст должен размещаться всегда в одну строку, для
+В макете [table-2b.psd](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-10/Homework/img/table-2b.psd) - в ячейках текст должен размещаться всегда в одну строку, для
 этого нужно использовать следующие CSS свойства:
-white-space: nowrap;
+**white-space: nowrap;
 overlow: hidden;
-text-overflow: ellipsis;
+text-overflow: ellipsis;**
 Чтобы свойства overlow: hidden; и text-overflow: ellipsis; сработали, текст который
 предусмотрено обрезать (в том случае если он не помещается в одну строку в ячейке
 таблицы) нужно дополнительно заворачивать в див или спан, но спану при этом
-нужно задавать display: block
+нужно задавать **display: block**
 Для выравнивания текста по вертикали в ячейках таблицы можно использовать
-свойства CSS vertical-align: top, bottom или middle
+свойства CSS **vertical-align: top**, **bottom** или **middle**
 Текст который по смыслу является ссылкой, должен быть выполнен ссылкой,.
-в макете table-2b.psd ссылками являются “View Location on Map”
-в макете table-1.psd ccылкой является текст в последней колонке “обсудим”
-в макете table-1.psd, по наведению на строку, текст во всех ячейках данной строки
-меняется на “зеленый”
+в макете [table-2b.psd](https://github.com/dbaktiyar/js-courses/blob/master/Lesson-10/Homework/img/table-2b.psd) ссылками являются **“View Location on Map”**
