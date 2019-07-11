@@ -1,0 +1,33 @@
+body{
+	 arial (font-family: arial, sans-serif)
+}
+
+.container {
+  margin: 0 auto;
+  width: 450px;
+  height: 600px;
+}
+
+.box {
+    padding: 30px;
+    border: 2px solid grey;
+    border-radius: 7px;
+    background-color: #e8e7e1;
+}
+
+h4 {
+    text-transform: uppercase;
+    padding: 15px 10px 15px 20px;
+}
+ul { 
+  list-style-image: url(../img/arrow.png)
+
+}
+
+li {
+    font-weight: normal;
+    color: #414a5a;
+    padding-top: 30px;
+}
+
+

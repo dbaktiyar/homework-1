@@ -1,0 +1,48 @@
+body{
+	 arial (font-family: arial, sans-serif)
+}
+
+.container {
+  margin: 0 auto;
+  width: 450px;
+  height: 600px;
+}
+
+.box {
+    padding: 30px;
+    border: 2px solid grey;
+    border-radius: 7px;
+    background-color: #e8e7e1;
+}
+
+.item img{
+
+}
+
+h4 {
+    text-transform: uppercase;
+    border-bottom: 2px solid grey;
+    padding-bottom: 20px;
+    width: 317px;
+}
+
+ul { 
+  list-style-image: url(../img/chekmark.png)
+
+}
+
+dl dt {
+  font-weight: bold;
+  color: #7d7d7d;
+}
+
+a {
+  color: #1f1f1f;
+}
+
+li dd {
+  margin: 0;
+  font-style: italic;
+  color: gray;
+  padding: 10px 10px 10px 5px
+}
