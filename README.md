@@ -26,4 +26,4 @@
 [Списки. Принцип модульности в верстке](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-9)
 
 ### Урок 10
-[Таблицы](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-9)
+[Таблицы](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-10)
