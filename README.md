@@ -29,4 +29,4 @@
 [Таблицы](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-10)
 
 ### Урок 11
-[Таблицы](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-11)
+[Формы, стилизация полей форм](https://github.com/dbaktiyar/js-courses/tree/master/Lesson-11)
