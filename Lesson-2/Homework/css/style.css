@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    width: 100%;
+    width: 101%;
     height: 50px;
     background: #02918c;
 }
@@ -19,3 +19,65 @@ header {
     height: 47px;
     font-weight: bold;
 }
+
+.project-item-txt h2 {
+    padding-top: 30px;
+    font-size: 46px;
+    color: #02918c;
+    font-weight: bold;
+    text-align: center;
+}
+
+.project-item-txt p {
+	font-size: 16px;
+	color: #7e8287;
+}
+
+section h3 {
+    color: #7e8287;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 39px;
+    text-decoration: none;
+}
+
+.about-items {
+    padding-top: 44px;
+}
+
+.about-item {
+    width: 205px;
+    text-align: center;
+    display: inline-block;
+    padding: 0 48px;
+}
+
+.about-item h3 {
+    color: #7e8287;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.about-item h3 a {
+    text-decoration: none;
+}
+
+.about-item p {
+	height: 21px;
+    font-size: 14px;
+    font-weight: normal;
+    color: #7e8287;
+}
+
+footer {
+    background-color: #000;
+    height: 50px;
+}
+
+footer p {
+    font-size: 16px;
+    color: #7e8287;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 15px;
