@@ -26,21 +26,21 @@ body {
     font: 400 13.3333px Arial;
 }
 
-li {
-    color: #989898;
-    display: inline-block;
-    font-weight: bold;
-    text-align: right;
-    padding-right: 15px;
-}
+    li {
+        color: #989898;
+        display: inline-block;
+        font-weight: bold;
+        text-align: right;
+        padding-right: 15px;
+    }
 
 .main {
     margin-top: 20px;
 }
 
-.info {
-    background: #d4d4d4;
-}
+    .info {
+        background: #d4d4d4;
+    }
 
 button {
     height: 40px;
